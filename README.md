@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Gian 👋
 
-<!--
-**gianssouza02/gianssouza02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pharmacist (B.Pharm, Universidade Cruzeiro do Sul, 2023) from São Paulo, Brazil, transitioning into **bioinformatics and cheminformatics for drug discovery**.
 
-Here are some ideas to get you started:
+### Background
+- Physicochemical quality control at Aché Laboratórios Farmacêuticos: assay, dissolution, content uniformity and impurity testing
+- Quality assurance and quality control in a compounding pharmacy: SOPs, nonconformities and raw material analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning
+- Python and the Linux command line
+- Biological and chemical databases: NCBI, UniProt, ChEMBL, PubChem
+- Cheminformatics with RDKit
+
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/gian-souza-silva-18483a1b5/)
+- [Lattes](https://lattes.cnpq.br/3375790370843230)
